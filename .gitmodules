@@ -1,0 +1,3 @@
+[submodule "nodenocoin"]
+	path = nodenocoin
+	url = https://github.com/nodenocoin/nodenocoin.git
